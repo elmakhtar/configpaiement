@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d0bc97f3-6e34-4635-b214-9346b54d7697" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/discovery/dev/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/discovery/dev/discovery.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gateway/dev/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gateway/dev/gateway.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gateway/test/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gateway/test/gateway.properties" afterDir="false" />
-    </list>
+    <list default="true" id="d0bc97f3-6e34-4635-b214-9346b54d7697" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -63,7 +59,21 @@
       <option name="project" value="LOCAL" />
       <updated>1589046976570</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="sd">
+      <created>1589047451388</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1589047451388</updated>
+    </task>
+    <task id="LOCAL-00005" summary="sd">
+      <created>1589047633711</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1589047633711</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -74,14 +84,14 @@
     <option name="LAST_COMMIT_MESSAGE" value="sd" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="359" y="0" key="CommitChangelistDialog2" timestamp="1589046975633">
+    <state x="359" y="0" key="CommitChangelistDialog2" timestamp="1589047632731">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="359" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1589046975633" />
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1589046498452">
+    <state x="359" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1589047632731" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1589047636698">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1589046498452" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1589047636698" />
     <state x="579" y="326" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1589046482563">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
