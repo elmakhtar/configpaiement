@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="d0bc97f3-6e34-4635-b214-9346b54d7697" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/donne-test.properties" beforeDir="false" afterPath="$PROJECT_DIR$/donne-test.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,6 +47,7 @@
       <option name="presentableId" value="Default" />
       <updated>1589044102954</updated>
       <workItem from="1589044104376" duration="375000" />
+      <workItem from="1589109897854" duration="592000" />
     </task>
     <task id="LOCAL-00001" summary="sd">
       <created>1589044270431</created>
@@ -91,7 +91,21 @@
       <option name="project" value="LOCAL" />
       <updated>1589059100221</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="sd">
+      <created>1589059465427</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1589059465427</updated>
+    </task>
+    <task id="LOCAL-00008" summary="sd">
+      <created>1589059668570</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1589059668570</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -102,14 +116,14 @@
     <option name="LAST_COMMIT_MESSAGE" value="sd" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="359" y="0" key="CommitChangelistDialog2" timestamp="1589059099302">
+    <state x="359" y="0" key="CommitChangelistDialog2" timestamp="1589059667711">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="359" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1589059099302" />
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1589059110043">
+    <state x="359" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1589059667711" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1589059671539">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1589059110043" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1589059671539" />
     <state x="579" y="326" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1589059015250">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
