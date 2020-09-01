@@ -82,7 +82,7 @@
       <workItem from="1597685481269" duration="479000" />
       <workItem from="1598372363331" duration="5894000" />
       <workItem from="1598543395438" duration="599000" />
-      <workItem from="1598962348047" duration="1551000" />
+      <workItem from="1598962348047" duration="3066000" />
     </task>
     <task id="LOCAL-00001" summary="sd">
       <created>1589044270431</created>
@@ -231,7 +231,21 @@
       <option name="project" value="LOCAL" />
       <updated>1598455146235</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="ajout config">
+      <created>1598974252868</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1598974252868</updated>
+    </task>
+    <task id="LOCAL-00023" summary="ajout config">
+      <created>1598974503843</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1598974503843</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -243,10 +257,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="ajout config" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="359" y="0" key="CommitChangelistDialog2" timestamp="1598455145091">
+    <state x="359" y="0" key="CommitChangelistDialog2" timestamp="1598974502580">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="359" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1598455145091" />
+    <state x="359" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1598974502580" />
     <state x="549" y="153" key="FileChooserDialogImpl" timestamp="1590688604685">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -255,10 +269,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="277" y="57" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1590687061432" />
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1598455148323">
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1598974505985">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1598455148323" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1598974505985" />
     <state x="209" y="95" key="new project wizard" timestamp="1590689035416">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
