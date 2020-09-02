@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d0bc97f3-6e34-4635-b214-9346b54d7697" name="Default Changelist" comment="ajout config">
+    <list default="true" id="d0bc97f3-6e34-4635-b214-9346b54d7697" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/donne-test.properties" beforeDir="false" afterPath="$PROJECT_DIR$/donne-test.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/donne-prod.properties" beforeDir="false" afterPath="$PROJECT_DIR$/donne-prod.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,7 +82,8 @@
       <workItem from="1597685481269" duration="479000" />
       <workItem from="1598372363331" duration="5894000" />
       <workItem from="1598543395438" duration="599000" />
-      <workItem from="1598962348047" duration="6700000" />
+      <workItem from="1598962348047" duration="8444000" />
+      <workItem from="1599046483531" duration="720000" />
     </task>
     <task id="LOCAL-00001" summary="sd">
       <created>1589044270431</created>
@@ -266,7 +267,14 @@
       <option name="project" value="LOCAL" />
       <updated>1598995118766</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="ajout config">
+      <created>1598997141196</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1598997141198</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -278,10 +286,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="ajout config" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="359" y="0" key="CommitChangelistDialog2" timestamp="1598995239876">
+    <state x="359" y="0" key="CommitChangelistDialog2" timestamp="1598997140029">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="359" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1598995239876" />
+    <state x="359" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1598997140029" />
     <state x="549" y="153" key="FileChooserDialogImpl" timestamp="1590688604685">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -290,10 +298,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="277" y="57" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1590687061432" />
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1598995630439">
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1598997146630">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1598995630439" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1598997146630" />
     <state x="209" y="95" key="new project wizard" timestamp="1590689035416">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
