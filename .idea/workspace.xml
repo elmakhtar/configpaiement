@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="d0bc97f3-6e34-4635-b214-9346b54d7697" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/donne-test.properties" beforeDir="false" afterPath="$PROJECT_DIR$/donne-test.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -93,6 +92,9 @@
       <workItem from="1599653763220" duration="2264000" />
       <workItem from="1599673722938" duration="602000" />
       <workItem from="1599674986326" duration="5585000" />
+      <workItem from="1599688666782" duration="385000" />
+      <workItem from="1599689405746" duration="1197000" />
+      <workItem from="1599697556208" duration="2233000" />
     </task>
     <task id="LOCAL-00001" summary="sd">
       <created>1589044270431</created>
